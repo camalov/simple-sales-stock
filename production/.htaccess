@@ -1,0 +1,3 @@
+RewriteEngine On
+
+ErrorDocument 404 http://localhost/oyrenirem/layihelerim/sales/production/page-404.php
